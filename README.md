@@ -20,8 +20,8 @@ How to run application:
 
 Initial Page:
 
-![alt text](https://github.com/J0K3Rn/DBank/blob/main/screenshots/Initial_Site.png?raw=true) 
+![alt text](https://github.com/J0K3Rn/IC-Keeper-App/blob/main/screenshots/Initial_Site.png?raw=true) 
 
 Page with items:
 
-![alt text](https://github.com/J0K3Rn/DBank/blob/main/screenshots/Site_With_Items.png?raw=true) 
+![alt text](https://github.com/J0K3Rn/IC-Keeper-App/blob/main/screenshots/Site_With_Items.png?raw=true) 
